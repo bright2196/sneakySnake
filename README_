@@ -1,0 +1,33 @@
+Lien de notre git : 
+
+//POUR INSTALLER NOS MODULES 
+git clone [lien du repo]
+npm install
+npm start
+
+
+
+Chose découverte en code : 
+
+Claire : J'ai découvert le CSS en React Native. Surtout au niveau des flex-box et de la syntaxe. Une autre grosse découverte
+de cette semaine cela a été les "hooks". Je connaissais de nom mais je ne m'en étais jamais servi. Je suis assez fière d'avoir réussi
+à en utiliser. 
+
+Alexis : 
+
+Mathéo : 
+
+
+Liste des fonctionnalités codés par personne : 
+
+- Grid/Gameboard : Claire (graphique et en console (tableau/array)) 
+- Déplacement de la tête du snake : Claire et Alexis
+- Food : Alexis 
+- Gestion des collisions : Claire. 
+- Menu : Matheo
+
+
+Problème non résolu : 
+
+!!! Problème de  déplacement du snake 
+
